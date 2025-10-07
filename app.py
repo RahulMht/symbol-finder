@@ -1004,4 +1004,4 @@ if __name__ == '__main__':
     print(" • If you see new FPs: raise 'Verify threshold' to 0.70–0.75 or increase 'Margin' to 0.06–0.10.")
     print("Open: http://127.0.0.1:8050")
     print("="*92 + "\n")
-    app.run(debug=False, host='127.0.0.1', port=10000)
+    app.run(debug=False, host='127.0.0.1', port=4000)
